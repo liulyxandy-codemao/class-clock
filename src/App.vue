@@ -2,7 +2,7 @@
 import { ref } from "vue";
 import config from "./assets/config.json";
 
-const currentVersion = "1.1.1";
+const currentVersion = "1.1.2";
 const updateLog = {
   "1.0.0": "初始版本，首次成功部署到教室（好耶）【25/02/11打包 25/02/12实装】",
   "1.1.0": "支持调整字体大小，显示课程节数，更新课程表 （后补：右键课程允许临时修改）【25/02/12打包 未实装】",
