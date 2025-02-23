@@ -1,3 +1,7 @@
+# 已过时
+
+请使用 [class-schedule](https://github.com/liulyxandy-codemao/class-schedule) 项目。
+
 # Tauri + Vue + TypeScript
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
